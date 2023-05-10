@@ -14,7 +14,7 @@ Unfortunately, most will be privatized until results are published.
 
 # Learning
 Repos for tinkering.
-- Assigned on May 5th 2023. [Attempt to characterize waveform's pitch in Python.](https://github.com/clarkmiyamoto/learning-waveform-synchronization)
+- Assigned on May 5th 2023. [Attempt to determine synchronization across waveforms in Python.](https://github.com/clarkmiyamoto/learning-waveform-synchronization)
 
 # To-Dos
 

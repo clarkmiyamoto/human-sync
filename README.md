@@ -2,7 +2,8 @@
 To organize repos associated human synchronization research under Moti Fridman at Bar-Ilan University.
 Unfortunately, most will be privatized until results are published.
 
-# Repos
+# Live Repos
+Repos which will eventually be published or will be used in experiment.
 
 ## Experiment
 ### Device Drivers / Interfaces
